@@ -333,25 +333,25 @@ terraform destroy
 This will delete all resources created by this project.
 
 
-📊 Screenshots
+## 📊 Screenshots
 
-Terraform Apply Complete  
-https://github.com/ritejmule2126/aws-multi-tier-terraform-project/screenshots/terraform-apply.png
+### Terraform Apply Complete
+![Terraform Apply](./screenshots/terraform-apply.png)
 
-AWS Console - EC2 Instances  
-https://github.com/ritejmule2126/aws-multi-tier-terraform-project/screenshots/ec2-instances.png
+### AWS Console - EC2 Instances
+![EC2 Instances](./screenshots/ec2-instances.png)
 
-AWS Console - Load Balancer  
-https://github.com/ritejmule2126/aws-multi-tier-terraform-project/screenshots/load-balancer.png
+### AWS Console - Load Balancer
+![Load Balancer](./screenshots/load-balancer.png)
 
-AWS Console - RDS Database  
-https://github.com/ritejmule2126/aws-multi-tier-terraform-project/screenshots/rds-database.png
+### AWS Console - RDS Database
+![RDS Database](./screenshots/rds-database.png)
 
-AWS Console - VPC  
-https://github.com/ritejmule2126/aws-multi-tier-terraform-project/screenshots/vpc.png
+### AWS Console - VPC
+![VPC](./screenshots/vpc.png)
 
-Application Running  
-https://github.com/ritejmule2126/aws-multi-tier-terraform-project/screenshots/application.png
+### Application Running
+![Application Running](./screenshots/application.png)
 
 
 🛠️ Troubleshooting
